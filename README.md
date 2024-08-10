@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
 <h3 align="center">A dedicated Full-Stack Developer and Ethical Hacker</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://konidevs.github.io/KoniDevs/)
-
-- 👯 I’m looking to collaborate on [Exposition Group](https://expocollaboration.github.io/ExpoWeb/)
-
 - 👨‍💻 All of my projects are available at [https://konidevs.github.io/KoniDevs/](https://github.com/KoniDevs)
 
 - 💬 Ask me about **How code works?**
 
-- 📫 How to reach me **delgadoargie04@gmail.com**
+- 📫 How to reach me **delgadoargie04z@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/1z0MQAJCl](https://resume.io/r/1z0MQAJCl)
 
