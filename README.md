@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
 <h3 align="center">A dedicated Full-Stack Developer and Ethical Hacker</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://Koni-hub.github.io/KoniPortfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://koni-hub.github.io/MyPortfolioV2/)
 
 - 💬 Ask me about **How code works?**
 
