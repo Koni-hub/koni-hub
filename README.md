@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
-<h3 align="center">A dedicated Full-Stack Developer and Ethical Hacker</h3>
+<h3 align="center">A dedicated Full-Stack Developer and Game Developer</h3>
 
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://koni-hub.github.io/My-Minimalist-Portfolio/" target="_blank">Portfolio</a></li>
